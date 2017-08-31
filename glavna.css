@@ -10,12 +10,11 @@ header {
     color: #9095ff;
     margin-left: 35%;
 }
-.right img {
-    height: 40px;
-    width: 40px;
+.social {
+    font-size: 20pt;
     cursor: pointer;
-    margin: 0 3px;
     float: right;
+    color: black;
 }
 
 
